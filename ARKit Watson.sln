@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARKit Watson", "Assembly-CSharp.csproj", "{8217A460-C650-961E-69A9-5A33E105E70A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARKit Watson", "Assembly-CSharp-Editor.csproj", "{1242763E-6606-4AA9-F3C2-12EE036FF059}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8217A460-C650-961E-69A9-5A33E105E70A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8217A460-C650-961E-69A9-5A33E105E70A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8217A460-C650-961E-69A9-5A33E105E70A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8217A460-C650-961E-69A9-5A33E105E70A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1242763E-6606-4AA9-F3C2-12EE036FF059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1242763E-6606-4AA9-F3C2-12EE036FF059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1242763E-6606-4AA9-F3C2-12EE036FF059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1242763E-6606-4AA9-F3C2-12EE036FF059}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
